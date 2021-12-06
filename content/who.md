@@ -28,5 +28,5 @@ Since this is a Computer Science course, I'm going to give a typical answer for 
 
 
 Here's a picture of my current rice:  
-![Rice image](/rice.png)
+![Rice image](/cs-ej4104/rice.png)
 <img src = "/rice.png">

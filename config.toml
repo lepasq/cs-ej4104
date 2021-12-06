@@ -6,4 +6,4 @@ theme = "terminal"
 
  [[menu.main]]
 	name = "Who"
-	url = "/posts/who/"
+	url = "/who/"
