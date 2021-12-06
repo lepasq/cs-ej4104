@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on DevOps</title><link>https://lepasq.github.io/cs-ej4104/posts/</link><description>Recent content in Posts on DevOps</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Dec 2021 11:27:19 +0200</lastBuildDate><atom:link href="https://lepasq.github.io/cs-ej4104/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Devops</title><link>https://lepasq.github.io/cs-ej4104/posts/first-post/</link><pubDate>Sun, 05 Dec 2021 11:27:19 +0200</pubDate><guid>https://lepasq.github.io/cs-ej4104/posts/first-post/</guid><description>Why Devops DevOps provides a lot of value in a team It reduces the time between the commit and the deployment of changes It increases stability and reliability What do I think about this course? For someone who had never heard about DevOps, this would be a great course.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on DevOps</title><link>https://lepasq.github.io/cs-ej4104/posts/</link><description>Recent content in Posts on DevOps</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 13:01:15 +0200</lastBuildDate><atom:link href="https://lepasq.github.io/cs-ej4104/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Who</title><link>https://lepasq.github.io/cs-ej4104/posts/who/</link><pubDate>Mon, 06 Dec 2021 13:01:15 +0200</pubDate><guid>https://lepasq.github.io/cs-ej4104/posts/who/</guid><description>Who Who am I?
+The answer to this question can vary a lot. It depends on the person asking the question, on one&amp;rsquo;s mood, on the context and many more things.
+I was asked this question in the first lecture of my philosophy class, and I was instructed to tell more about my philosophical attitude.
+Since this is a Computer Science course, I&amp;rsquo;m going to give a typical answer for a computer science class:</description><content>&lt;h1 id="who">Who&lt;/h1>
+&lt;p>Who am I?&lt;br>
+The answer to this question can vary a lot. It depends on the person asking the question, on one&amp;rsquo;s mood, on the context and many more things.&lt;/p>
+&lt;p>I was asked this question in the first lecture of my philosophy class, and I was instructed to tell more about my philosophical attitude.&lt;/p>
+&lt;p>Since this is a Computer Science course, I&amp;rsquo;m going to give a typical answer for a computer science class:&lt;/p>
+&lt;ul>
+&lt;li>Operating System: Arch Linux&lt;/li>
+&lt;li>Window Manager: i3-gaps&lt;/li>
+&lt;li>Favourite Programming Languages: Go, Haskell&lt;/li>
+&lt;li>Spaces vs. Tabs: Using tab key to generate spaces&lt;/li>
+&lt;li>Dark vs. Light Mode: Dark&lt;/li>
+&lt;li>Vim vs. Emacs: Vim&lt;/li>
+&lt;/ul>
+&lt;p>Here&amp;rsquo;s a picture of my current rice:&lt;br>
+&lt;img src="https://lepasq.github.io/cs-ej4104/rice.png" alt="Rice image">
+&lt;!-- raw HTML omitted -->&lt;/p></content></item><item><title>Why Devops</title><link>https://lepasq.github.io/cs-ej4104/posts/first-post/</link><pubDate>Sun, 05 Dec 2021 11:27:19 +0200</pubDate><guid>https://lepasq.github.io/cs-ej4104/posts/first-post/</guid><description>Why Devops DevOps provides a lot of value in a team It reduces the time between the commit and the deployment of changes It increases stability and reliability What do I think about this course? For someone who had never heard about DevOps, this would be a great course.
 As someone who had already worked with Markdown and Hugo before, I did not learn too much.
 I really liked the CI/CD part about this project, as it is somewhat challenging.</description><content>&lt;h1 id="why-devops">Why Devops&lt;/h1>
 &lt;ul>
