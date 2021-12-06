@@ -39,5 +39,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.PRIVATE_KEY }}
-          external_repository: lepasq/cs-ej4104
+          external_repository: lepasq/lepasq.github.io
           publish_dir: ./public
