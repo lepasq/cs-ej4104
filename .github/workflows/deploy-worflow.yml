@@ -9,8 +9,6 @@ name: Build and deploy GitHub pages with Hugo
 # does not produce any errors on GitHub. It should be modified to
 # fulfil the project requirements.
 
-# A workflow that only runs during leap years
-
 on:
   push:
     branches:
