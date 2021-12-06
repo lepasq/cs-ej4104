@@ -33,7 +33,7 @@ jobs:
           hugo-version: '0.89.3'
 
       - name: Build
-        run: hugo --minify
+        run: hugo --theme=terminal --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
