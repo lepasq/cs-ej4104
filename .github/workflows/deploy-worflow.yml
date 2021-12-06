@@ -32,6 +32,9 @@ jobs:
         with:
           hugo-version: '0.89.3'
 
+      - name: Remove public files
+        run: rm -rf public
+
       - name: Build
         run: hugo --theme=terminal --minify
 
