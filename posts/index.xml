@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on DevOps</title><link>https://lepasq.github.io/cs-ej4104/posts/</link><description>Recent content in Posts on DevOps</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 05 Dec 2021 11:27:19 +0200</lastBuildDate><atom:link href="https://lepasq.github.io/cs-ej4104/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Why Devops</title><link>https://lepasq.github.io/cs-ej4104/posts/first-post/</link><pubDate>Sun, 05 Dec 2021 11:27:19 +0200</pubDate><guid>https://lepasq.github.io/cs-ej4104/posts/first-post/</guid><description>Why Devops DevOps provides a lot of value in a team It reduces the time between the commit and the deployment of changes It increases stability and reliability What do I think about this course? For someone who had never heard about DevOps, this would be a great course.
+As someone who had already worked with Markdown and Hugo before, I did not learn too much.
+I really liked the CI/CD part about this project, as it is somewhat challenging.</description><content>&lt;h1 id="why-devops">Why Devops&lt;/h1>
+&lt;ul>
+&lt;li>DevOps provides a lot of value in a team&lt;/li>
+&lt;li>It reduces the time between the commit and the deployment of changes&lt;/li>
+&lt;li>It increases stability and reliability&lt;/li>
+&lt;/ul>
+&lt;h2 id="what-do-i-think-about-this-course">What do I think about this course?&lt;/h2>
+&lt;p>For someone who had never heard about DevOps, this would be a great course.&lt;br>
+As someone who had already worked with Markdown and Hugo before, I did not learn too much.&lt;/p>
+&lt;p>I really liked the CI/CD part about this project, as it is somewhat challenging.&lt;/p>
+&lt;p>I wish there would have been a 5EC version of this course, similar to CS-E4190 (Cloud Software and Systems),
+containing more things about Web Servers and Nginx, testing tools, managing servers, proxies, load balancers and monitoring.&lt;/p>
+&lt;h2 id="how-did-i-get-into-devops">How did I get into DevOps?&lt;/h2>
+&lt;p>I got first interested in DevOps, after installing Linux at the end of my first semester in my Bachelor&amp;rsquo;s degree.
+First, I started messing around with Linux configuration files, ricing and vim.&lt;br>
+After a while, I learnt Docker and Docker-compose, started using CI/CD more often, and at some point I got really interested in the DevOps part.&lt;/p>
+&lt;p>I find that &lt;a href="https://roadmap.sh/devops">this roadmap&lt;/a> gives a really nice overview, of the hard skills that a DevOps engineer requires.&lt;br>
+Next to knowledge of basic programming, knowledge of Operating Systems and Computer Networks are fundamental, as many activities interact with them.&lt;/p>
+&lt;p>The next track that is suggested is to learn about &lt;!-- raw HTML omitted -->Infrastructure as Code&lt;!-- raw HTML omitted -->. This includes containerization using Docker,
+Configuration Management using Ansible, Infrastructure Provisioning using Terraform and Container Orchestration using Kubernetes.&lt;/p>
+&lt;p>Some of the mentioned tools, we&amp;rsquo;ve learnt about in CS-E4190.&lt;/p>
+&lt;p>The last milestones of the roadmap are about&lt;/p>
+&lt;ul>
+&lt;li>CI/CD such as Gitlab CI, GitHub Actions or Jenkins&lt;/li>
+&lt;li>Cloud Providers, such as AWS, GCP or Digital Ocean&lt;/li>
+&lt;li>Monitoring and Logging Software&lt;/li>
+&lt;li>Cloud design patterns&lt;/li>
+&lt;/ul>
+&lt;p>Some of the things that I have not looked yet at all, are Monitoring, Cloud design patterns and Web Servers, such as Nginx.&lt;br>
+I&amp;rsquo;d also like to try and use Kubernetes. However, I find it hard to practice it without having an ongoing site that is used by many users,
+as it could be hard to test it properly otherwise.&lt;/p></content></item></channel></rss>
