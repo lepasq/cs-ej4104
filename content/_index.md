@@ -15,7 +15,7 @@ Some widely used tools for DevOps are Cloud-providers, such as AWS or GCP, Terra
 Enjoy going through my blog and check out the posts below for more detail!  
 
 
-Useful Links:  
-[Course page](https://mycourses.aalto.fi/course/view.php?id=34305)  
-[Static page](https://mycourses.aalto.fi/course/view.php?id=34305)  
+Useful Links:
+[Course page](https://mycourses.aalto.fi/course/view.php?id=34305)
+[Static page](https://mycourses.aalto.fi/course/view.php?id=34305)
 [Blog page](https://mycourses.aalto.fi/course/view.php?id=34305)
