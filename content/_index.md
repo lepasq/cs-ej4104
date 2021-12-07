@@ -17,5 +17,5 @@ Enjoy going through my blog and check out the posts below for more detail!
 
 Useful Links:
 [Course page](https://mycourses.aalto.fi/course/view.php?id=34305)
-[Static page](https://lepasq.github.io/cs-ej4104/)
+[Static page](https://lepasq.github.io/cs-ej4104/who/)
 [Blog page](https://lepasq.github.io/cs-ej4104/)
